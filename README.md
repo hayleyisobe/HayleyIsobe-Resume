@@ -1,6 +1,2 @@
-
-# Welcome to LearnCS8 Resume Website
-
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+# This is my resume website titled "Hayley Isobe"
+![This is my website resume](https://1423a5b521dc4569bb4fda2c7dc62593.vfs.cloud9.us-east-2.amazonaws.com/_static/LearnCS8-Resume/img/resumewebsite.png)
